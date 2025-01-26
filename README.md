@@ -86,13 +86,13 @@ Secure trading platform with real-time analytics and KYC verification.
 
 ## 📬 Let's Connect!
 <div style="display: flex; gap: 10px">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:rakotonanaharyliantsoafan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/liantsoa-fanantenana-rakotonanahary-782775345">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://twitter.com/LiantsoaFanant2">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
